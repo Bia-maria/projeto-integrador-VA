@@ -3,7 +3,7 @@
 Sistema desenvolvido como parte do Projeto Integrador do curso de Análise e Desenvolvimento de Sistemas.
 O projeto tem como objetivo criar uma solução prática aplicando conceitos aprendidos durante o curso, como lógica de programação, arquitetura de software, banco de dados, versionamento e desenvolvimento mobile.
 
-📌 Descrição do Projeto
+* Descrição do Projeto
 
 Este projeto consiste no desenvolvimento de um aplicativo Android que permite o cadastro e gerenciamento de intenções de missa, classificadas em categorias como:
 
@@ -19,7 +19,7 @@ A aplicação foi construída utilizando a linguagem Kotlin, Android Studio, arq
 
 O desenvolvimento seguiu boas práticas e metodologias ágeis, como princípios do Extreme Programming (XP), priorizando simplicidade, evolução contínua e feedback rápido.
 
-🛠️ Tecnologias utilizadas
+* Tecnologias utilizadas
 
 Kotlin
 
@@ -33,16 +33,16 @@ Git e GitHub
 
 Metodologia XP
 
-📚 Objetivo do Sistema
+* Objetivo do Sistema
 
 Fornecer uma ferramenta simples e eficiente para organizar intenções de missa, permitindo:
 
-✔ Cadastro de intenções
-✔ Categorização por tipo
-✔ Geração de lista para cada missa
-✔ Edição e exclusão de registros
+* Cadastro de intenções
+* Categorização por tipo
+* Geração de lista para cada missa
+* Edição e exclusão de registros
 
-👨‍💻 Equipe de Desenvolvimento
+* Equipe de Desenvolvimento
 
 Beatriz de Freitas Ribeiro Silva
 
@@ -52,7 +52,7 @@ Caio Vitor França Arantes
 
 Helder de Almeida Santos
 
-📂 Estrutura do Projeto
++ Estrutura do Projeto
 projeto-integrador-VA/
  ├── app/
  │   ├── java/
@@ -82,6 +82,7 @@ Aguarde o Gradle sincronizar
 
 Execute o aplicativo em um emulador ou dispositivo físico
 
-📄 Licença
+* Licença
+  Este projeto é de uso acadêmico e não possui fins comerciais.
 
 Este projeto é de uso acadêmico e não possui fins comerciais.
